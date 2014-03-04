@@ -2,7 +2,7 @@
 
 Welcome to the suggestion box! This feedback repo is for you, the reader, to ask me questions, impart your own feedback, and give me a good old finger-wagging.
 It is forked from [@nrrrdcore’s feedback repo](https://github.com/nrrrdcore/feedback), which was forked from
-[@mdo’s feedback repo](https://github.com/mdo/feedback), which was in turn forked from [@holman’s feedback repo](https://github.com/holman/feedback). While this is preferable over email queries (in the sense that anyone can contribute to answering more open-ended questions, and the repo can act as a good resource for FAQs), you may contact me directly and private via email if you so wish; dan.eden@me.com
+[@mdo’s feedback repo](https://github.com/mdo/feedback), which was in turn forked from [@holman’s feedback repo](https://github.com/holman/feedback). While this is preferable over email queries (in the sense that anyone can contribute to answering more open-ended questions, and the repo can act as a good resource for FAQs), you may contact me directly and privately via email if you so wish; dan.eden@me.com
 
 ---
 
